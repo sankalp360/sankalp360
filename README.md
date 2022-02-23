@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)-->
-[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-patel/)
-[![Mail Badge](https://img.shields.io/badge/-acousticclown-e84393?style=plastic&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_.sankalp___/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/patel.san360@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-patel/)
+[![Mail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.sankalp___/)
+[![Mail Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalp360)
+<a href="mailto:patel.san360@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--![GitHub stars](https://img.shields.io/github/stars/acousticclown/acousticclown?color=tomato&logo=github&style=for-the-badge)
 <!--<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <!--| ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ``` -->
 
@@ -32,15 +33,10 @@ Here are some ideas to get you started:
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31gy5kynhnjauj3cu2susrdf2mva)
 
   </td>
   <td width="50%">
-
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-[![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
-
   </p>
   </td>
 </table>
