@@ -8,6 +8,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
+<div style="text-align: right">
+<img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
+</div>
+
 # Hi there, I'm [Sankalp](https://www.linkedin.com/in/sankalp-patel/) 👋
 <img align="center" alt="My Bitmoji" width="350px" src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-cf8a9c37-e6dc-4593-882f-c9269ffe6a2c-v1.png?transparent=1&palette=1" />
 
@@ -27,6 +32,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to **collaborate with other developers.**
 - 🥅 2022 Goals: **Contribute more to Open Source projects.**
 - 😄 Pronouns: **He/Him.**
+
+## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br>
+<a href="https://www.linkedin.com/in/sankalp-patel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:patel.san360@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31gy5kynhnjauj3cu2susrdf2mva"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
+<br><br>
 
 ### Spotify Playing 🎧
 <table width="100%"> 
@@ -115,6 +128,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:Stats-->
 
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp360)
+
+<br>
+
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+
+<br>
+<br>
+----
+
+<br>
+
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
 
 <!--END_SECTION:Stats-->
 
