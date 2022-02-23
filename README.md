@@ -42,17 +42,11 @@ Here are some ideas to get you started:
 <br><br>
 
 ### Spotify Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
+## Now Playing
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31gy5kynhnjauj3cu2susrdf2mva)
-
-  </td>
-  <td width="50%">
-  </p>
-  </td>
-</table>
+<br>
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
+<br>
 <!-- 
 ### Connect with me:
 
@@ -129,17 +123,6 @@ Here are some ideas to get you started:
 
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp360)
 
-<br>
-
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
-
-<br>
-<br>
-----
-
-<br>
-
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
 
 <!--END_SECTION:Stats-->
 
