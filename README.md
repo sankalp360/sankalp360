@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm [Sankalp](https://www.linkedin.com/in/sankalp-patel/) 👋
-<img align="center" alt="My Bitmoji" width="350px" src="https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png" />
+<img align="center" alt="My Bitmoji" width="350px" src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-cf8a9c37-e6dc-4593-882f-c9269ffe6a2c-v1.png?transparent=1&palette=1" />
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)-->
